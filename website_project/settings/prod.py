@@ -1,6 +1,6 @@
 DEBUG = False
 
-ALLOWED_HOSTS = ['.herokuapp.com']
+ALLOWED_HOSTS = ['mytesrtboiler.herokuapp.com']
 
 import django_heroku
 
