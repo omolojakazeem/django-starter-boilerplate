@@ -8,6 +8,8 @@
 pip install -r requirements.txt
 ```
 
+* If you wont be using this project name, kindly edit the project name in the Procfile and wsgi file and all other possible occurences. 
+
 ### Heroku Settings
 
 * Run the below commands to create the free plan of postgresql db on heroku
