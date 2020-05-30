@@ -1,7 +1,7 @@
 from .base import *
 DEBUG = False
 
-ALLOWED_HOSTS = ['mytesrtboiler.herokuapp.com']
+ALLOWED_HOSTS = ['mytestboiler.hekuapp.com']
 
 import django_heroku
 
